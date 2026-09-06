@@ -1,2 +1,2 @@
 timestamp_utc,kp_index,kp_time_utc,kp_band,storm_warning,storm_level,schumann_hz,schumann_amp,aqi,aqi_city,image_path,image_url_hint,commit_sha
-2026-09-05T16:45:40Z,2.67,2026-09-05T16:45:40Z,mild,False,,7.68,,,,images/dailypost.jpg,https://cdn.jsdelivr.net/gh/GaiaEyesHQ/gaiaeyes-media@main/images/dailypost.jpg,
+2026-09-06T14:07:22Z,1.33,2026-09-06T14:07:22Z,calm,False,,7.71,,,,images/dailypost.jpg,https://cdn.jsdelivr.net/gh/GaiaEyesHQ/gaiaeyes-media@main/images/dailypost.jpg,

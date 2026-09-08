@@ -1,118 +1,6 @@
 {
-  "generated_at": "2026-09-08T18:49:14Z",
+  "generated_at": "2026-09-08T21:29:04Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "WF1031737",
-      "ts": "2026-09-06T19:04:22Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Mozambique",
-      "body": "On 04/09/2026, a forest fire started in Mozambique,  until 07/09/2026.",
-      "details": "On 04/09/2026, a forest fire started in Mozambique,  until 07/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031737"
-      ],
-      "location": "Mozambique"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1031738",
-      "ts": "2026-09-06T19:04:55Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Tanzania",
-      "body": "On 03/09/2026, a forest fire started in Tanzania,  until 08/09/2026.",
-      "details": "On 03/09/2026, a forest fire started in Tanzania,  until 08/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031738"
-      ],
-      "location": "Tanzania"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1031745",
-      "ts": "2026-09-06T19:08:47Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Mozambique",
-      "body": "On 01/09/2026, a forest fire started in Mozambique,  until 07/09/2026.",
-      "details": "On 01/09/2026, a forest fire started in Mozambique,  until 07/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031745"
-      ],
-      "location": "Mozambique"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1031750",
-      "ts": "2026-09-06T19:11:21Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Mozambique",
-      "body": "On 01/09/2026, a forest fire started in Mozambique,  until 07/09/2026.",
-      "details": "On 01/09/2026, a forest fire started in Mozambique,  until 07/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031750"
-      ],
-      "location": "Mozambique"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1031751",
-      "ts": "2026-09-06T19:11:28Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 01/09/2026, a forest fire started in Australia,  until 07/09/2026.",
-      "details": "On 01/09/2026, a forest fire started in Australia,  until 07/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031751"
-      ],
-      "location": "Australia"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1031755",
-      "ts": "2026-09-06T19:19:49Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Mozambique",
-      "body": "On 30/08/2026, a forest fire started in Mozambique,  until 07/09/2026.",
-      "details": "On 30/08/2026, a forest fire started in Mozambique,  until 07/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031755"
-      ],
-      "location": "Mozambique"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1031759",
-      "ts": "2026-09-06T19:24:26Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Mozambique",
-      "body": "On 29/08/2026, a forest fire started in Mozambique,  until 07/09/2026.",
-      "details": "On 29/08/2026, a forest fire started in Mozambique,  until 07/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031759"
-      ],
-      "location": "Mozambique"
-    },
     {
       "source": "gdacs",
       "id": "WF1031765",
@@ -198,8 +86,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Angola",
-      "body": "On 05/09/2026, a forest fire started in Angola,  until 07/09/2026.",
-      "details": "On 05/09/2026, a forest fire started in Angola,  until 07/09/2026.",
+      "body": "On 05/09/2026, a forest fire started in Angola,  until 08/09/2026.",
+      "details": "On 05/09/2026, a forest fire started in Angola,  until 08/09/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -389,8 +277,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Zambia",
-      "body": "On 04/09/2026, a forest fire started in Zambia,  until 07/09/2026.",
-      "details": "On 04/09/2026, a forest fire started in Zambia,  until 07/09/2026.",
+      "body": "On 04/09/2026, a forest fire started in Zambia,  until 08/09/2026.",
+      "details": "On 04/09/2026, a forest fire started in Zambia,  until 08/09/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -645,8 +533,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Tanzania",
-      "body": "On 03/09/2026, a forest fire started in Tanzania,  until 07/09/2026.",
-      "details": "On 03/09/2026, a forest fire started in Tanzania,  until 07/09/2026.",
+      "body": "On 03/09/2026, a forest fire started in Tanzania,  until 08/09/2026.",
+      "details": "On 03/09/2026, a forest fire started in Tanzania,  until 08/09/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -805,8 +693,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Zambia",
-      "body": "On 26/08/2026, a forest fire started in Zambia,  until 07/09/2026.",
-      "details": "On 26/08/2026, a forest fire started in Zambia,  until 07/09/2026.",
+      "body": "On 26/08/2026, a forest fire started in Zambia,  until 08/09/2026.",
+      "details": "On 26/08/2026, a forest fire started in Zambia,  until 08/09/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -997,8 +885,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
-      "body": "On 31/08/2026, a forest fire started in The Democratic Republic of Congo,  until 07/09/2026.",
-      "details": "On 31/08/2026, a forest fire started in The Democratic Republic of Congo,  until 07/09/2026.",
+      "body": "On 31/08/2026, a forest fire started in The Democratic Republic of Congo,  until 08/09/2026.",
+      "details": "On 31/08/2026, a forest fire started in The Democratic Republic of Congo,  until 08/09/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -1196,38 +1084,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1031823",
-      "ts": "2026-09-08T15:02:50Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 06/09/2026, a forest fire started in Australia,  until 08/09/2026.",
-      "details": "On 06/09/2026, a forest fire started in Australia,  until 08/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031823"
-      ],
-      "location": "Australia"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1031781",
-      "ts": "2026-09-08T15:03:54Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Namibia",
-      "body": "On 06/09/2026, a forest fire started in Namibia,  until 07/09/2026.",
-      "details": "On 06/09/2026, a forest fire started in Namibia,  until 07/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031781"
-      ],
-      "location": "Namibia"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1031822",
       "ts": "2026-09-08T15:04:31Z",
       "type": "wildfire",
@@ -1241,22 +1097,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031822"
       ],
       "location": "Australia"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1031782",
-      "ts": "2026-09-08T15:05:51Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Angola",
-      "body": "On 05/09/2026, a forest fire started in Angola,  until 07/09/2026.",
-      "details": "On 05/09/2026, a forest fire started in Angola,  until 07/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031782"
-      ],
-      "location": "Angola"
     },
     {
       "source": "gdacs",
@@ -1292,38 +1132,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1031824",
-      "ts": "2026-09-08T15:08:38Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 04/09/2026, a forest fire started in Australia,  until 08/09/2026.",
-      "details": "On 04/09/2026, a forest fire started in Australia,  until 08/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031824"
-      ],
-      "location": "Australia"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1031734",
-      "ts": "2026-09-08T15:09:37Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in The Democratic Republic of Congo",
-      "body": "On 04/09/2026, a forest fire started in The Democratic Republic of Congo,  until 06/09/2026.",
-      "details": "On 04/09/2026, a forest fire started in The Democratic Republic of Congo,  until 06/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031734"
-      ],
-      "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1031790",
       "ts": "2026-09-08T15:10:46Z",
       "type": "wildfire",
@@ -1335,22 +1143,6 @@
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031790"
-      ],
-      "location": "Angola"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1031789",
-      "ts": "2026-09-08T15:12:55Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Angola",
-      "body": "On 03/09/2026, a forest fire started in Angola,  until 07/09/2026.",
-      "details": "On 03/09/2026, a forest fire started in Angola,  until 07/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031789"
       ],
       "location": "Angola"
     },
@@ -1441,46 +1233,14 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
-      "body": "On 01/09/2026, a forest fire started in The Democratic Republic of Congo,  until 07/09/2026.",
-      "details": "On 01/09/2026, a forest fire started in The Democratic Republic of Congo,  until 07/09/2026.",
+      "body": "On 01/09/2026, a forest fire started in The Democratic Republic of Congo,  until 08/09/2026.",
+      "details": "On 01/09/2026, a forest fire started in The Democratic Republic of Congo,  until 08/09/2026.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031795"
       ],
       "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1031796",
-      "ts": "2026-09-08T15:18:32Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in The Democratic Republic of Congo, Congo",
-      "body": "On 01/09/2026, a forest fire started in The Democratic Republic of Congo, Congo,  until 07/09/2026.",
-      "details": "On 01/09/2026, a forest fire started in The Democratic Republic of Congo, Congo,  until 07/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031796"
-      ],
-      "location": "The Democratic Republic of Congo, Congo"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1031699",
-      "ts": "2026-09-08T15:18:55Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Angola",
-      "body": "On 01/09/2026, a forest fire started in Angola,  until 05/09/2026.",
-      "details": "On 01/09/2026, a forest fire started in Angola,  until 05/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031699"
-      ],
-      "location": "Angola"
     },
     {
       "source": "gdacs",
@@ -1497,38 +1257,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031797"
       ],
       "location": "Zambia"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1031803",
-      "ts": "2026-09-08T15:23:03Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Mozambique",
-      "body": "On 31/08/2026, a forest fire started in Mozambique,  until 07/09/2026.",
-      "details": "On 31/08/2026, a forest fire started in Mozambique,  until 07/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031803"
-      ],
-      "location": "Mozambique"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1031807",
-      "ts": "2026-09-08T15:23:20Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Mozambique",
-      "body": "On 31/08/2026, a forest fire started in Mozambique,  until 07/09/2026.",
-      "details": "On 31/08/2026, a forest fire started in Mozambique,  until 07/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031807"
-      ],
-      "location": "Mozambique"
     },
     {
       "source": "gdacs",
@@ -1553,46 +1281,14 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Angola",
-      "body": "On 31/08/2026, a forest fire started in Angola,  until 07/09/2026.",
-      "details": "On 31/08/2026, a forest fire started in Angola,  until 07/09/2026.",
+      "body": "On 31/08/2026, a forest fire started in Angola,  until 08/09/2026.",
+      "details": "On 31/08/2026, a forest fire started in Angola,  until 08/09/2026.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031805"
       ],
       "location": "Angola"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1031806",
-      "ts": "2026-09-08T15:25:07Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Mozambique",
-      "body": "On 31/08/2026, a forest fire started in Mozambique,  until 07/09/2026.",
-      "details": "On 31/08/2026, a forest fire started in Mozambique,  until 07/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031806"
-      ],
-      "location": "Mozambique"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1031825",
-      "ts": "2026-09-08T15:25:16Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 31/08/2026, a forest fire started in Australia,  until 08/09/2026.",
-      "details": "On 31/08/2026, a forest fire started in Australia,  until 08/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031825"
-      ],
-      "location": "Australia"
     },
     {
       "source": "gdacs",
@@ -1611,86 +1307,6 @@
       "location": "Angola"
     },
     {
-      "source": "gdacs",
-      "id": "WF1031809",
-      "ts": "2026-09-08T15:28:17Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Mozambique",
-      "body": "On 30/08/2026, a forest fire started in Mozambique,  until 07/09/2026.",
-      "details": "On 30/08/2026, a forest fire started in Mozambique,  until 07/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031809"
-      ],
-      "location": "Mozambique"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1031810",
-      "ts": "2026-09-08T15:28:56Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in The Democratic Republic of Congo",
-      "body": "On 30/08/2026, a forest fire started in The Democratic Republic of Congo,  until 07/09/2026.",
-      "details": "On 30/08/2026, a forest fire started in The Democratic Republic of Congo,  until 07/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031810"
-      ],
-      "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1031820",
-      "ts": "2026-09-08T15:29:24Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Mozambique",
-      "body": "On 30/08/2026, a forest fire started in Mozambique,  until 07/09/2026.",
-      "details": "On 30/08/2026, a forest fire started in Mozambique,  until 07/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031820"
-      ],
-      "location": "Mozambique"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1031812",
-      "ts": "2026-09-08T15:34:11Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Mozambique",
-      "body": "On 30/08/2026, a forest fire started in Mozambique,  until 07/09/2026.",
-      "details": "On 30/08/2026, a forest fire started in Mozambique,  until 07/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031812"
-      ],
-      "location": "Mozambique"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1031633",
-      "ts": "2026-09-08T15:34:20Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Mozambique",
-      "body": "On 30/08/2026, a forest fire started in Mozambique,  until 04/09/2026.",
-      "details": "On 30/08/2026, a forest fire started in Mozambique,  until 04/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031633"
-      ],
-      "location": "Mozambique"
-    },
-    {
       "source": "media",
       "id": "us7000tfum",
       "ts": "2026-09-08T15:36:35Z",
@@ -1707,8 +1323,472 @@
     },
     {
       "source": "gdacs",
+      "id": "WF1031815",
+      "ts": "2026-09-08T16:42:06Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Zambia",
+      "body": "On 24/08/2026, a forest fire started in Zambia,  until 07/09/2026.",
+      "details": "On 24/08/2026, a forest fire started in Zambia,  until 07/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031815"
+      ],
+      "location": "Zambia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031826",
+      "ts": "2026-09-08T19:01:56Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Zambia",
+      "body": "On 05/09/2026, a forest fire started in Zambia,  until 08/09/2026.",
+      "details": "On 05/09/2026, a forest fire started in Zambia,  until 08/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031826"
+      ],
+      "location": "Zambia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031823",
+      "ts": "2026-09-08T19:04:56Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 06/09/2026, a forest fire started in Australia,  until 08/09/2026.",
+      "details": "On 06/09/2026, a forest fire started in Australia,  until 08/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031823"
+      ],
+      "location": "Australia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031781",
+      "ts": "2026-09-08T19:06:34Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Namibia",
+      "body": "On 06/09/2026, a forest fire started in Namibia,  until 07/09/2026.",
+      "details": "On 06/09/2026, a forest fire started in Namibia,  until 07/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031781"
+      ],
+      "location": "Namibia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031827",
+      "ts": "2026-09-08T19:07:54Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Zambia",
+      "body": "On 05/09/2026, a forest fire started in Zambia,  until 08/09/2026.",
+      "details": "On 05/09/2026, a forest fire started in Zambia,  until 08/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031827"
+      ],
+      "location": "Zambia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031828",
+      "ts": "2026-09-08T19:08:23Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Zambia",
+      "body": "On 05/09/2026, a forest fire started in Zambia,  until 08/09/2026.",
+      "details": "On 05/09/2026, a forest fire started in Zambia,  until 08/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031828"
+      ],
+      "location": "Zambia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031782",
+      "ts": "2026-09-08T19:08:37Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Angola",
+      "body": "On 05/09/2026, a forest fire started in Angola,  until 07/09/2026.",
+      "details": "On 05/09/2026, a forest fire started in Angola,  until 07/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031782"
+      ],
+      "location": "Angola"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031829",
+      "ts": "2026-09-08T19:09:07Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Russian Federation, Kazakhstan",
+      "body": "On 05/09/2026, a forest fire started in Russian Federation, Kazakhstan,  until 08/09/2026.",
+      "details": "On 05/09/2026, a forest fire started in Russian Federation, Kazakhstan,  until 08/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031829"
+      ],
+      "location": "Russian Federation, Kazakhstan"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031830",
+      "ts": "2026-09-08T19:09:47Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Zambia",
+      "body": "On 04/09/2026, a forest fire started in Zambia,  until 08/09/2026.",
+      "details": "On 04/09/2026, a forest fire started in Zambia,  until 08/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031830"
+      ],
+      "location": "Zambia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031734",
+      "ts": "2026-09-08T19:13:00Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in The Democratic Republic of Congo",
+      "body": "On 04/09/2026, a forest fire started in The Democratic Republic of Congo,  until 06/09/2026.",
+      "details": "On 04/09/2026, a forest fire started in The Democratic Republic of Congo,  until 06/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031734"
+      ],
+      "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031824",
+      "ts": "2026-09-08T19:13:29Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 04/09/2026, a forest fire started in Australia,  until 08/09/2026.",
+      "details": "On 04/09/2026, a forest fire started in Australia,  until 08/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031824"
+      ],
+      "location": "Australia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031789",
+      "ts": "2026-09-08T19:13:35Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Angola",
+      "body": "On 03/09/2026, a forest fire started in Angola,  until 07/09/2026.",
+      "details": "On 03/09/2026, a forest fire started in Angola,  until 07/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031789"
+      ],
+      "location": "Angola"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031831",
+      "ts": "2026-09-08T19:19:11Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Zambia",
+      "body": "On 02/09/2026, a forest fire started in Zambia,  until 08/09/2026.",
+      "details": "On 02/09/2026, a forest fire started in Zambia,  until 08/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031831"
+      ],
+      "location": "Zambia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031832",
+      "ts": "2026-09-08T19:22:13Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Zambia",
+      "body": "On 02/09/2026, a forest fire started in Zambia,  until 08/09/2026.",
+      "details": "On 02/09/2026, a forest fire started in Zambia,  until 08/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031832"
+      ],
+      "location": "Zambia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031833",
+      "ts": "2026-09-08T19:22:30Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 01/09/2026, a forest fire started in Australia,  until 08/09/2026.",
+      "details": "On 01/09/2026, a forest fire started in Australia,  until 08/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031833"
+      ],
+      "location": "Australia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031834",
+      "ts": "2026-09-08T19:28:06Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Angola",
+      "body": "On 01/09/2026, a forest fire started in Angola,  until 08/09/2026.",
+      "details": "On 01/09/2026, a forest fire started in Angola,  until 08/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031834"
+      ],
+      "location": "Angola"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031835",
+      "ts": "2026-09-08T19:28:24Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Angola",
+      "body": "On 01/09/2026, a forest fire started in Angola,  until 08/09/2026.",
+      "details": "On 01/09/2026, a forest fire started in Angola,  until 08/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031835"
+      ],
+      "location": "Angola"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031836",
+      "ts": "2026-09-08T19:28:32Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Angola",
+      "body": "On 01/09/2026, a forest fire started in Angola,  until 08/09/2026.",
+      "details": "On 01/09/2026, a forest fire started in Angola,  until 08/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031836"
+      ],
+      "location": "Angola"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031837",
+      "ts": "2026-09-08T19:29:01Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Angola",
+      "body": "On 01/09/2026, a forest fire started in Angola,  until 08/09/2026.",
+      "details": "On 01/09/2026, a forest fire started in Angola,  until 08/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031837"
+      ],
+      "location": "Angola"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031699",
+      "ts": "2026-09-08T19:29:20Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Angola",
+      "body": "On 01/09/2026, a forest fire started in Angola,  until 05/09/2026.",
+      "details": "On 01/09/2026, a forest fire started in Angola,  until 05/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031699"
+      ],
+      "location": "Angola"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031796",
+      "ts": "2026-09-08T19:30:00Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in The Democratic Republic of Congo, Congo",
+      "body": "On 01/09/2026, a forest fire started in The Democratic Republic of Congo, Congo,  until 07/09/2026.",
+      "details": "On 01/09/2026, a forest fire started in The Democratic Republic of Congo, Congo,  until 07/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031796"
+      ],
+      "location": "The Democratic Republic of Congo, Congo"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031838",
+      "ts": "2026-09-08T19:30:10Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Indonesia",
+      "body": "On 01/09/2026, a forest fire started in Indonesia,  until 08/09/2026.",
+      "details": "On 01/09/2026, a forest fire started in Indonesia,  until 08/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031838"
+      ],
+      "location": "Indonesia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031839",
+      "ts": "2026-09-08T19:30:55Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Tanzania",
+      "body": "On 31/08/2026, a forest fire started in Tanzania,  until 08/09/2026.",
+      "details": "On 31/08/2026, a forest fire started in Tanzania,  until 08/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031839"
+      ],
+      "location": "Tanzania"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031803",
+      "ts": "2026-09-08T19:37:23Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Mozambique",
+      "body": "On 31/08/2026, a forest fire started in Mozambique,  until 07/09/2026.",
+      "details": "On 31/08/2026, a forest fire started in Mozambique,  until 07/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031803"
+      ],
+      "location": "Mozambique"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031840",
+      "ts": "2026-09-08T19:37:47Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Zambia",
+      "body": "On 31/08/2026, a forest fire started in Zambia,  until 08/09/2026.",
+      "details": "On 31/08/2026, a forest fire started in Zambia,  until 08/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031840"
+      ],
+      "location": "Zambia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031825",
+      "ts": "2026-09-08T19:38:03Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 31/08/2026, a forest fire started in Australia,  until 08/09/2026.",
+      "details": "On 31/08/2026, a forest fire started in Australia,  until 08/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031825"
+      ],
+      "location": "Australia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031841",
+      "ts": "2026-09-08T19:41:49Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Zambia",
+      "body": "On 31/08/2026, a forest fire started in Zambia,  until 08/09/2026.",
+      "details": "On 31/08/2026, a forest fire started in Zambia,  until 08/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031841"
+      ],
+      "location": "Zambia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031806",
+      "ts": "2026-09-08T19:42:14Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Mozambique",
+      "body": "On 31/08/2026, a forest fire started in Mozambique,  until 07/09/2026.",
+      "details": "On 31/08/2026, a forest fire started in Mozambique,  until 07/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031806"
+      ],
+      "location": "Mozambique"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031807",
+      "ts": "2026-09-08T19:42:38Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Mozambique",
+      "body": "On 31/08/2026, a forest fire started in Mozambique,  until 07/09/2026.",
+      "details": "On 31/08/2026, a forest fire started in Mozambique,  until 07/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031807"
+      ],
+      "location": "Mozambique"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1031730",
-      "ts": "2026-09-08T15:40:47Z",
+      "ts": "2026-09-08T19:52:28Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -1723,8 +1803,56 @@
     },
     {
       "source": "gdacs",
+      "id": "WF1031812",
+      "ts": "2026-09-08T19:59:40Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Mozambique",
+      "body": "On 30/08/2026, a forest fire started in Mozambique,  until 07/09/2026.",
+      "details": "On 30/08/2026, a forest fire started in Mozambique,  until 07/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031812"
+      ],
+      "location": "Mozambique"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031633",
+      "ts": "2026-09-08T20:08:01Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Mozambique",
+      "body": "On 30/08/2026, a forest fire started in Mozambique,  until 04/09/2026.",
+      "details": "On 30/08/2026, a forest fire started in Mozambique,  until 04/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031633"
+      ],
+      "location": "Mozambique"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031842",
+      "ts": "2026-09-08T20:09:49Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Angola",
+      "body": "On 30/08/2026, a forest fire started in Angola,  until 08/09/2026.",
+      "details": "On 30/08/2026, a forest fire started in Angola,  until 08/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031842"
+      ],
+      "location": "Angola"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1031756",
-      "ts": "2026-09-08T15:41:44Z",
+      "ts": "2026-09-08T20:12:32Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Mozambique",
@@ -1739,8 +1867,56 @@
     },
     {
       "source": "gdacs",
+      "id": "WF1031843",
+      "ts": "2026-09-08T20:13:00Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Mozambique",
+      "body": "On 30/08/2026, a forest fire started in Mozambique,  until 08/09/2026.",
+      "details": "On 30/08/2026, a forest fire started in Mozambique,  until 08/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031843"
+      ],
+      "location": "Mozambique"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031820",
+      "ts": "2026-09-08T20:13:34Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Mozambique",
+      "body": "On 30/08/2026, a forest fire started in Mozambique,  until 07/09/2026.",
+      "details": "On 30/08/2026, a forest fire started in Mozambique,  until 07/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031820"
+      ],
+      "location": "Mozambique"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031809",
+      "ts": "2026-09-08T20:13:43Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Mozambique",
+      "body": "On 30/08/2026, a forest fire started in Mozambique,  until 07/09/2026.",
+      "details": "On 30/08/2026, a forest fire started in Mozambique,  until 07/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031809"
+      ],
+      "location": "Mozambique"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1031811",
-      "ts": "2026-09-08T15:43:21Z",
+      "ts": "2026-09-08T20:19:50Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -1755,8 +1931,24 @@
     },
     {
       "source": "gdacs",
+      "id": "WF1031810",
+      "ts": "2026-09-08T20:22:07Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in The Democratic Republic of Congo",
+      "body": "On 30/08/2026, a forest fire started in The Democratic Republic of Congo,  until 07/09/2026.",
+      "details": "On 30/08/2026, a forest fire started in The Democratic Republic of Congo,  until 07/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031810"
+      ],
+      "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1031716",
-      "ts": "2026-09-08T15:48:33Z",
+      "ts": "2026-09-08T20:25:06Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Zambia",
@@ -1772,7 +1964,7 @@
     {
       "source": "gdacs",
       "id": "WF1031715",
-      "ts": "2026-09-08T15:49:36Z",
+      "ts": "2026-09-08T20:25:45Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Tanzania",
@@ -1788,7 +1980,7 @@
     {
       "source": "gdacs",
       "id": "WF1031767",
-      "ts": "2026-09-08T15:51:49Z",
+      "ts": "2026-09-08T20:25:59Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Brazil",
@@ -1803,24 +1995,8 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1031644",
-      "ts": "2026-09-08T15:53:22Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Mozambique",
-      "body": "On 28/08/2026, a forest fire started in Mozambique,  until 04/09/2026.",
-      "details": "On 28/08/2026, a forest fire started in Mozambique,  until 04/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031644"
-      ],
-      "location": "Mozambique"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1031642",
-      "ts": "2026-09-08T16:07:02Z",
+      "ts": "2026-09-08T20:29:52Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Tanzania",
@@ -1835,24 +2011,24 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1031651",
-      "ts": "2026-09-08T16:18:11Z",
+      "id": "WF1031644",
+      "ts": "2026-09-08T20:33:45Z",
       "type": "wildfire",
       "severity": "info",
-      "title": "Green forest fire notification in Zambia",
-      "body": "On 26/08/2026, a forest fire started in Zambia,  until 04/09/2026.",
-      "details": "On 26/08/2026, a forest fire started in Zambia,  until 04/09/2026.",
+      "title": "Green forest fire notification in Mozambique",
+      "body": "On 28/08/2026, a forest fire started in Mozambique,  until 04/09/2026.",
+      "details": "On 28/08/2026, a forest fire started in Mozambique,  until 04/09/2026.",
       "lat": null,
       "lon": null,
       "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031651"
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031644"
       ],
-      "location": "Zambia"
+      "location": "Mozambique"
     },
     {
       "source": "gdacs",
       "id": "WF1031650",
-      "ts": "2026-09-08T16:27:52Z",
+      "ts": "2026-09-08T20:41:29Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Mozambique",
@@ -1867,24 +2043,8 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1031652",
-      "ts": "2026-09-08T16:28:41Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Angola",
-      "body": "On 26/08/2026, a forest fire started in Angola,  until 04/09/2026.",
-      "details": "On 26/08/2026, a forest fire started in Angola,  until 04/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031652"
-      ],
-      "location": "Angola"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1031814",
-      "ts": "2026-09-08T16:28:51Z",
+      "ts": "2026-09-08T20:42:17Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -1899,19 +2059,35 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1031815",
-      "ts": "2026-09-08T16:42:06Z",
+      "id": "WF1031651",
+      "ts": "2026-09-08T20:42:38Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Zambia",
-      "body": "On 24/08/2026, a forest fire started in Zambia,  until 07/09/2026.",
-      "details": "On 24/08/2026, a forest fire started in Zambia,  until 07/09/2026.",
+      "body": "On 26/08/2026, a forest fire started in Zambia,  until 04/09/2026.",
+      "details": "On 26/08/2026, a forest fire started in Zambia,  until 04/09/2026.",
       "lat": null,
       "lon": null,
       "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031815"
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031651"
       ],
       "location": "Zambia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1031652",
+      "ts": "2026-09-08T20:47:16Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Angola",
+      "body": "On 26/08/2026, a forest fire started in Angola,  until 04/09/2026.",
+      "details": "On 26/08/2026, a forest fire started in Angola,  until 04/09/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031652"
+      ],
+      "location": "Angola"
     }
   ]
 }
